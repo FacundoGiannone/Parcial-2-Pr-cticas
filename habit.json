@@ -1,0 +1,96 @@
+[
+
+    {
+        "imagen": "h1.1.jpg" ,
+        "nombre": "Habitacion Hotel Intercontinental Johannesburg" ,
+        "direccion": "Tambo International Airport Kempton Park, Johannesburg, 1619, Sudáfrica–" ,
+        "linkdireccion": "google.com.ar/maps/place/InterContinental+Johannesburg+O.R.Tambo+Airport,+an+IHG+Hotel/@-26.1333174,28.2283275,17z/data=!3m1!4b1!4m9!3m8!1s0x1e95146a44e6a0d5:0x4186dbd14808ee7!5m2!4m1!1i2!8m2!3d-26.1333222!4d28.2309024!16s%2Fg%2F1hc8lv__p?entry=ttu" ,
+        "tamaño": "30m²",
+        "dormitorios":"3 dormitorios",
+        "baños": "2 camas",
+        "cochera": "Cochera: SI",
+        "descripcion": "El InterContinental Johannesburg OR Tambo Airport Hotel está convenientemente ubicado a solo 69 metros a pie del bullicioso edificio de la terminal del aeropuerto OR Tambo, lo que lo convierte en una opción ideal para los viajeros que buscan un refugio tranquilo durante su viaje. El hotel ofrece una gama de comodidades y servicios para garantizar una estancia cómoda y agradable.",
+        "tipodeprecio": "Canon por noche",
+        "precio": 200
+    },
+    {
+        "imagen": "h2.jpg" ,
+        "nombre": "Hotel España" ,
+        "direccion": "Av. España 1024, piso 1 dpto 3, 5500 Mendoza, Argentina –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Departamento+Altos+Mendoza+Centro/@-32.8908813,-68.8447899,17z/data=!3m1!4b1!4m9!3m8!1s0x967e09e6b72c7ae1:0x75ff9ddb70793c9!5m2!4m1!1i2!8m2!3d-32.8908858!4d-68.842215!16s%2Fg%2F11sdcpv4c6?entry=ttu" ,
+        "tamaño": "35m²",
+        "dormitorios":"2 camas",
+        "baños": "1 baño",
+        "cochera": "Cochera: SI",
+        "descripcion": "El Hotel España ofrece alojamiento con vistas a la ciudad y WiFi gratuita en el centro de Mendoza, a solo 300 metros de la plaza de la Independencia y a 1,1 km del Museo del Pasado Cuyano. Ofrece vistas a la montaña y se encuentra a 1,6 km del paseo Alameda y a 1,7 km del centro de convenciones Emilio Civit.",
+        "tipodeprecio": "Canon por noche",
+        "precio": 130
+    },
+    {
+        "imagen": "h3.jpg" ,
+        "nombre": "Hotel Gran Carrizal" ,
+        "direccion": "49 Nicolás Avellaneda, 5500 Mendoza, Argentina –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Departamento+Altos+Mendoza+Centro/@-32.8908813,-68.8447899,17z/data=!3m1!4b1!4m9!3m8!1s0x967e09e6b72c7ae1:0x75ff9ddb70793c9!5m2!4m1!1i2!8m2!3d-32.8908858!4d-68.842215!16s%2Fg%2F11sdcpv4c6?entry=ttu" ,
+        "tamaño": "45m²",
+        "dormitorios":"3 camas",
+        "baños": "2 baños",
+        "cochera": "Cochera: NO",
+        "descripcion": "El hotel está cerca del centro de convenciones Emilio Civit, la plaza San Martín y el estadio Bautista Gargantini. El aeropuerto más cercano es el aeropuerto internacional Gobernador Francisco Gabrielli,ubicado a 8 km del Excelente Departamento Céntrico.",
+        "tipodeprecio": "Canon por noche",
+        "precio": 30
+    },
+    {
+        "imagen": "h4.jpg" ,
+        "nombre": "Hotel Rivadavia" ,
+        "direccion": "Calle Rivadavia nº 249, 5500 Mendoza, Argentina –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Departamento+Altos+Mendoza+Centro/@-32.8908813,-68.8447899,17z/data=!3m1!4b1!4m9!3m8!1s0x967e09e6b72c7ae1:0x75ff9ddb70793c9!5m2!4m1!1i2!8m2!3d-32.8908858!4d-68.842215!16s%2Fg%2F11sdcpv4c6?entry=ttu" ,
+        "tamaño": "20m²",
+        "dormitorios":"2 camas",
+        "baños": "1 baño",
+        "cochera": "Cochera: SI",
+        "descripcion": "El Hotel Rivadavia ofrece alojamiento con aire acondicionado en el centro de Mendoza, a 200 metros de la plaza de la Independencia, a 1,3 km del Museo del Pasado Cuyano y a 1,7 km del paseo Alameda. Hay WiFi gratuita. El alojamiento cuenta con TV de pantalla plana y baño privado con bidet, bañera o ducha y secador de pelo. La cocina está equipada con nevera, microondas y minibar.",
+        "tipodeprecio": "Canon por noche",
+        "precio": 35
+    },
+    {
+        "imagen": "h5.jpg" ,
+        "nombre": "Hotel San Lorenzo Centro" ,
+        "direccion": "444 San Lorenzo Piso 5 depto 67, 5500 Mendoza, Argentina –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Departamento+Altos+Mendoza+Centro/@-32.8908813,-68.8447899,17z/data=!3m1!4b1!4m9!3m8!1s0x967e09e6b72c7ae1:0x75ff9ddb70793c9!5m2!4m1!1i2!8m2!3d-32.8908858!4d-68.842215!16s%2Fg%2F11sdcpv4c6?entry=ttu" ,
+        "tamaño": "25m²",
+        "dormitorios":"3 camas",
+        "baños": "1 baño",
+        "cochera": "Cochera: SI",
+        "descripcion": "El Hotel San Lorenzo Centro ofrece alojamiento con vistas a la ciudad y WiFi gratuita en el centro de Mendoza, a solo 300 metros de la plaza de la Independencia y a 1,1 km del Museo del Pasado Cuyano. Ofrece vistas a la montaña y se encuentra a 1,6 km del paseo Alameda y a 1,7 km del centro de convenciones Emilio Civit.",
+        "tipodeprecio": "Canon por noche",
+        "precio": 25
+    },
+    {
+        "imagen": "h6.jpg" ,
+        "nombre": "Hotel Don Bosco" ,
+        "direccion": "Av. España 1024, piso 1 dpto 3, 5500 Mendoza, Argentina –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Departamento+Altos+Mendoza+Centro/@-32.8908813,-68.8447899,17z/data=!3m1!4b1!4m9!3m8!1s0x967e09e6b72c7ae1:0x75ff9ddb70793c9!5m2!4m1!1i2!8m2!3d-32.8908858!4d-68.842215!16s%2Fg%2F11sdcpv4c6?entry=ttu" ,
+        "tamaño": "40m²",
+        "dormitorios":"Cama doble",
+        "baños": "1 baño",
+        "cochera": "Cochera abierta",
+        "descripcion": "El Hotel ofrece alojamiento con vistas a la ciudad y WiFi gratuita en el centro de Mendoza, a solo 300 metros de la plaza de la Independencia y a 1,1 km del Museo del Pasado Cuyano. Ofrece vistas a la montaña y se encuentra a 1,6 km del paseo Alameda y a 1,7 km del centro de convenciones Emilio Civit.",
+        "tipodeprecio": "Canon por noche",
+        "precio": 50
+    },
+    {
+        "imagen": "h7.jpg" ,
+        "nombre": "Hotel Mendoza Gótica" ,
+        "direccion": "Av. España 1024, piso 1 dpto 3, 5500 Mendoza, Argentina –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Departamento+Altos+Mendoza+Centro/@-32.8908813,-68.8447899,17z/data=!3m1!4b1!4m9!3m8!1s0x967e09e6b72c7ae1:0x75ff9ddb70793c9!5m2!4m1!1i2!8m2!3d-32.8908858!4d-68.842215!16s%2Fg%2F11sdcpv4c6?entry=ttu" ,
+        "tamaño": "17m²",
+        "dormitorios":"Cama doble",
+        "baños": "Baño compartido",
+        "cochera": "Cochera subterranea",
+        "descripcion": "El apartamento cuenta con terraza, vistas a la ciudad, zona de estar, TV de pantalla plana, cocina totalmente equipada con nevera y horno y baño privado con bidet y artículos de aseo gratuitos. El establecimiento proporciona toallas y ropa de cama por un suplemento.",
+        "tipodeprecio": "Canon por noche",
+        "precio": 500
+    }
+
+
+]    

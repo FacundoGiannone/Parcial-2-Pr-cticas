@@ -1,0 +1,96 @@
+[
+
+    {
+        "imagen": "d1.1.jpg.jpg" ,
+        "nombre": "Departamento Lar de Vieytes" ,
+        "direccion": "Vieytes 0, Lujan de Cuyo, Lujan de Cuyo, Mendoza –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Beltr%C3%A1n+939,+Godoy+Cruz,+Mendoza/@-32.9138836,-68.8525599,17.75z/data=!4m16!1m9!3m8!1s0x967e0970e86dfe19:0xd301ad8c71e0e6e7!2sBeltr%C3%A1n+939,+Godoy+Cruz,+Mendoza!3b1!8m2!3d-32.913869!4d-68.850783!10e5!16s%2Fg%2F11c87xjbdv!3m5!1s0x967e0970e86dfe19:0xd301ad8c71e0e6e7!8m2!3d-32.913869!4d-68.850783!16s%2Fg%2F11c87xjbdv?entry=ttu" ,
+        "tamaño": "75m²",
+        "dormitorios":"3 dormitorios",
+        "baños": "3 baños",
+        "cochera": "Cochera doble",
+        "descripcion": "El apartamento está a 3,6 km de la plaza de la Independencia y a 3,7 km del Museo del Pasado Cuyano. El aeropuerto más cercano es El Hermoso Departamento con excelentes ubicación está a 11 km del aeropuerto internacional Gobernador Francisco Gabrielli.",
+        "tipodeprecio": "Pecio de venta",
+        "precio": 85000
+    },
+    {
+        "imagen": "d2.jpg" ,
+        "nombre": "Departamento España" ,
+        "direccion": "Av. España 1024, piso 1 dpto 3, 5500 Mendoza, Argentina –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Departamento+Altos+Mendoza+Centro/@-32.8908813,-68.8447899,17z/data=!3m1!4b1!4m9!3m8!1s0x967e09e6b72c7ae1:0x75ff9ddb70793c9!5m2!4m1!1i2!8m2!3d-32.8908858!4d-68.842215!16s%2Fg%2F11sdcpv4c6?entry=ttu" ,
+        "tamaño": "50m²",
+        "dormitorios":"2 dormitorios",
+        "baños": "1 baño",
+        "cochera": "Cochera Simple",
+        "descripcion": "El Departamento Altos Mendoza Centro ofrece alojamiento con vistas a la ciudad y WiFi gratuita en el centro de Mendoza, a solo 300 metros de la plaza de la Independencia y a 1,1 km del Museo del Pasado Cuyano. Ofrece vistas a la montaña y se encuentra a 1,6 km del paseo Alameda y a 1,7 km del centro de convenciones Emilio Civit.",
+        "tipodeprecio": "Canon mensual",
+        "precio": 130
+    },
+    {
+        "imagen": "d3.jpg" ,
+        "nombre": "Departamento Gran Carrizal" ,
+        "direccion": "49 Nicolás Avellaneda, 5500 Mendoza, Argentina –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Departamento+Altos+Mendoza+Centro/@-32.8908813,-68.8447899,17z/data=!3m1!4b1!4m9!3m8!1s0x967e09e6b72c7ae1:0x75ff9ddb70793c9!5m2!4m1!1i2!8m2!3d-32.8908858!4d-68.842215!16s%2Fg%2F11sdcpv4c6?entry=ttu" ,
+        "tamaño": "85m²",
+        "dormitorios":"3 dormitorios",
+        "baños": "2 baños",
+        "cochera": "Sin cochera",
+        "descripcion": "El apartamento está cerca del centro de convenciones Emilio Civit, la plaza San Martín y el estadio Bautista Gargantini. El aeropuerto más cercano es el aeropuerto internacional Gobernador Francisco Gabrielli,ubicado a 8 km del Excelente Departamento Céntrico.",
+        "tipodeprecio": "Canon por noche",
+        "precio": 30
+    },
+    {
+        "imagen": "d4.jpg" ,
+        "nombre": "Departamento Rivadavia" ,
+        "direccion": "Calle Rivadavia nº 249, 5500 Mendoza, Argentina –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Departamento+Altos+Mendoza+Centro/@-32.8908813,-68.8447899,17z/data=!3m1!4b1!4m9!3m8!1s0x967e09e6b72c7ae1:0x75ff9ddb70793c9!5m2!4m1!1i2!8m2!3d-32.8908858!4d-68.842215!16s%2Fg%2F11sdcpv4c6?entry=ttu" ,
+        "tamaño": "100m²",
+        "dormitorios":"4 dormitorios",
+        "baños": "5 baños",
+        "cochera": "Cochera triple",
+        "descripcion": "El Departamentos Rivadavia ofrece alojamiento con aire acondicionado en el centro de Mendoza, a 200 metros de la plaza de la Independencia, a 1,3 km del Museo del Pasado Cuyano y a 1,7 km del paseo Alameda. Hay WiFi gratuita. El alojamiento cuenta con TV de pantalla plana y baño privado con bidet, bañera o ducha y secador de pelo. La cocina está equipada con nevera, microondas y minibar.",
+        "tipodeprecio": "Canon mensual",
+        "precio": 350
+    },
+    {
+        "imagen": "d5.jpg" ,
+        "nombre": "Departamento San Lorenzo Centro" ,
+        "direccion": "444 San Lorenzo Piso 5 depto 67, 5500 Mendoza, Argentina –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Departamento+Altos+Mendoza+Centro/@-32.8908813,-68.8447899,17z/data=!3m1!4b1!4m9!3m8!1s0x967e09e6b72c7ae1:0x75ff9ddb70793c9!5m2!4m1!1i2!8m2!3d-32.8908858!4d-68.842215!16s%2Fg%2F11sdcpv4c6?entry=ttu" ,
+        "tamaño": "47m²",
+        "dormitorios":"3 dormitorios",
+        "baños": "3 baños",
+        "cochera": "Cochera simple",
+        "descripcion": "El Departamento Altos Mendoza Centro ofrece alojamiento con vistas a la ciudad y WiFi gratuita en el centro de Mendoza, a solo 300 metros de la plaza de la Independencia y a 1,1 km del Museo del Pasado Cuyano. Ofrece vistas a la montaña y se encuentra a 1,6 km del paseo Alameda y a 1,7 km del centro de convenciones Emilio Civit.",
+        "tipodeprecio": "Canon mensual",
+        "precio": 170
+    },
+    {
+        "imagen": "d6.jpg" ,
+        "nombre": "Departamento Don Bosco" ,
+        "direccion": "Av. España 1024, piso 1 dpto 3, 5500 Mendoza, Argentina –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Departamento+Altos+Mendoza+Centro/@-32.8908813,-68.8447899,17z/data=!3m1!4b1!4m9!3m8!1s0x967e09e6b72c7ae1:0x75ff9ddb70793c9!5m2!4m1!1i2!8m2!3d-32.8908858!4d-68.842215!16s%2Fg%2F11sdcpv4c6?entry=ttu" ,
+        "tamaño": "45m²",
+        "dormitorios":"2 dormitorios",
+        "baños": "1 baño",
+        "cochera": "Cochera abierta",
+        "descripcion": "El Departamento ofrece alojamiento con vistas a la ciudad y WiFi gratuita en el centro de Mendoza, a solo 300 metros de la plaza de la Independencia y a 1,1 km del Museo del Pasado Cuyano. Ofrece vistas a la montaña y se encuentra a 1,6 km del paseo Alameda y a 1,7 km del centro de convenciones Emilio Civit.",
+        "tipodeprecio": "Canon por noche",
+        "precio": 20
+    },
+    {
+        "imagen": "d7.jpg" ,
+        "nombre": "Departamento Mendoza Centro" ,
+        "direccion": "Av. España 1024, piso 1 dpto 3, 5500 Mendoza, Argentina –" ,
+        "linkdireccion": "https://www.google.com.ar/maps/place/Departamento+Altos+Mendoza+Centro/@-32.8908813,-68.8447899,17z/data=!3m1!4b1!4m9!3m8!1s0x967e09e6b72c7ae1:0x75ff9ddb70793c9!5m2!4m1!1i2!8m2!3d-32.8908858!4d-68.842215!16s%2Fg%2F11sdcpv4c6?entry=ttu" ,
+        "tamaño": "17m²",
+        "dormitorios":"3 dormitorios",
+        "baños": "Sin baño",
+        "cochera": "Cochera cuadruple",
+        "descripcion": "El apartamento cuenta con terraza, vistas a la ciudad, zona de estar, TV de pantalla plana, cocina totalmente equipada con nevera y horno y baño privado con bidet y artículos de aseo gratuitos. El establecimiento proporciona toallas y ropa de cama por un suplemento.",
+        "tipodeprecio": "Precio de venta",
+        "precio": 500
+    }
+
+
+]    

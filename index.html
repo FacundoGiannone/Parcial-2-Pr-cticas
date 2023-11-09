@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="LOGO.ico">
+    <link rel="stylesheet" href="Home.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
+
+    <title>MySweetHome</title>
+
+</head>
+
+<body class="body">
+    <header class="header">
+        <div class="cajaheader">
+            <div class="cajalogo">
+                <div class="logo">
+                    <a href="index.html">
+                        <img class="img-logo" src="LOGO.png" width="65%" alt="mapa">
+                    </a>
+                </div>
+            </div>
+            <div class="boxnavbar">
+                <nav class="navbar navbar-expand-lg navbar-dark">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="navbar-brand"
+                                    href="https://api.whatsapp.com/send?phone=2615192633&text=Hola%20MySweetHome!%20Quiero%20que%20se%20contacten%20conmigo.">
+                                    <img class="navlogo" src="wpp.png" alt="">
+                                    Contacto
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="navbar-brand" href="https://es-la.facebook.com/">
+                                    <img class="navlogo" src="facebk.png" alt="">
+                                    @MySweetHome
+                                </a>
+
+                            </li>
+                            <li class="nav-item">
+                                <a class="navbar-brand" href="https://www.instagram.com/accounts/login/">
+                                    <img class="navlogo" src="insta.png" alt="">
+                                    @MySweetHome
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <main class="main">
+        <section class="maininic">
+            <div class="maininic1">
+                <div class="maintxt">
+                    <div class="texto">
+                        <h1 class="ttmain">My Sweet Home</h1>
+                        <p class="stmain">Tu sueño es</b>
+                            nuestro sueño.</p>
+                        <h2 class="pregbtn">Que estás buscando?</h2>
+                        <a class="btn" href="$">
+                            <div class="boton">
+                                <h6 class="texbtn">COMPRAR PROPIEDAD</h6>
+                            </div>
+                        </a>
+                        <a class="btn" href="$">
+                            <div class="boton">
+                                <h6 class="texbtn">ALQUILAR PROPIEDAD</h6>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="mainimg">
+                    <img class="mnimagen" src="portada red.png" alt="">
+                </div>
+            </div>
+            <section class="mainclass">
+                <div class="mainclass1">
+                    <div class="maintext">
+                        <div class="text">
+                            <h1 class="pregbtn">Encuentra el lugar que habita en tus sueños</h1>
+                            <p class="stmain">Un espacio donde compartir y disfrutar de la vida en las pequeñas cosas</p>
+                         
+                        </div>
+                    </div>
+                    <div class="mainimage">
+                        <img class="heroimage" src="../img/home.jpg" alt="">
+                    </div>
+                </div>
+                <div class="mainclass2">
+                    <div class="filter">
+                        <div class="cfilter">
+                            <form class="ffilter" action="#">
+                                <label class="tfilter" for="lang">Contrato</label>
+                                <select class="sfilter" name="ubicacion" id="lang">
+                                    <option value="alq">Alquiler permanente</option>
+                                    <option value="comp">Compra</option>
+                                    <option value="temp">Alquiler temporal</option>
+                                </select>
+                            </form>
+                        </div>
+    
+                        <div class="cfilter">
+                            <form class="ffilter" action="#">
+                                <label class="tfilter" for="lang">Tipo de inmueble</label>
+                                <select class="sfilter" name="inmueble" id="lang">
+                                    <option value="D">Departamento</option>
+                                    <option value="C">Casa</option>
+                                    <option value="T">Habitación</option>
+                                    <option value="T">Todos</option>
+                                </select>
+                            </form>
+                        </div>
+    
+                        <div class="cfilter">
+                            <form class="ffilter" action="#">
+                                <label class="tfilter" for="lang">Precio máximo </label>
+                                <input type="text" name="Precio" id="precio" placeholder="U$D">
+                                <div class="tprecio"></div>
+                            </form>
+                        </div>
+                        <div class="cfilter">
+    
+                            <button class="TBUS" id="precioboton">
+                                <h6 class="texbtn">BUSCAR</h6>
+                            </button>
+                            
+                        </div>
+                    </div>
+                </div>
+    
+    
+            </section>
+            <div class="mainic2">
+                <div class="tarjcont">
+                    <div class="tarjeta">
+                        <h4 class="titarj">CASAS</h4>
+                        <img class="tarjimg" src="casa.png" alt="">
+                        <a class="btn" href="MSH-Casas.html">
+                            <div class="botoncaj">
+                                <h6 class="texbtn">BUSCAR CASA</h6>
+                            </div>
+                        </a>
+
+                    </div>
+                    <div class="tarjeta">
+                        <h4 class="titarj">DEPARTAMENTOS</h4>
+                        <img class="tarjimg" src="departamento.png" alt="">
+                        <a class="btn" href="MSH-Departamentos.html">
+                            <div class="botoncaj">
+                                <h6 class="texbtn">BUSCAR DEPARTAMENTO</h6>
+                            </div>
+                        </a>
+
+                    </div>
+                    <div class="tarjeta">
+                        <h4 class="titarj">HABITACIONES</h4>
+                        <img class="tarjimg" src="habitacion.png" alt="">
+                        <a class="btn" href="MSH-Habitaciones.html">
+                            <div class="botoncaj">
+                                <h6 class="texbtn">BUSCAR HABITACIÓN</h6>
+                            </div>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="mainus">
+            <div class="nosbox">
+                <div class="nosimg">
+                    <img class="nosotrosimagen" src="nosotros.png" alt="">
+                </div>
+                <div class="nosotrostexto">
+                    <div class="nostxt">
+                        <h1 class="nostit">NOSOTROS</h1>
+                        <h6 class="nospar">Somos una empresa familiar con más de 50 años de trayectoria
+                            en la pronvicia de Mendoza. Tenemos nuestra oficina en el corazón de la Ciudad,
+                            en calle 9 de Julio 1221, a metros de Espejo.<br>
+                            <br>
+                            Nos dedicamos a la compra/venta y alquiler de propiedades urbanas.
+                            Pero sobre todo, dedicamos nuestras vidas a cumplir sueños.<br>
+                            <br>
+                            Contamos con un equipo profesional excelentemente capacitado para ayudarlo.
+                            Contáctenos para encontrar la propiedad que está buscando
+                            o para vender/alquilar su inmueble.
+                        </h6>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+        <section class="main4">
+            <div class="boxconsulta">
+                <div class="imagenmensaje">
+                    <h3 class="texmes">Desea saber más?</h3>
+                    <h5 class="texmes">Envíe su conslta y nos contactaremos.</h5>
+                    <img class="logomsj" src="LOGO.png" alt="">
+                </div>
+                <div class="consulta">
+                    <div class="form-group">
+                        <label class="label" for="nombre">Nombre</label>
+                        <input type="text" id="nombre" placeholder="Nombre...">
+                    </div>
+                    <div class="form-group">
+                        <label class="label" for="nombre">E-mail</label>
+                        <input type="text" id="email" placeholder="E-mail...">
+                    </div>
+                    <div class="form-group">
+                        <label class="label" for="nombre">Mensaje</label>
+                        <input type="text" class="form-mensaje" id="mensaje" placeholder="Mensaje...">
+                    </div>
+                 
+                    <button type="button" class="botoncaj" id="botonform" data-toggle="modal" data-target=".bd-example-modal-sm">Enviar</button>
+
+                    <div class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog"
+                        aria-labelledby="mySmallModalLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-sm">
+                            <div class="modal-content-1">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+    </main>
+    <footer class="futer">
+        <div class="futter">
+            <div class="columnas">
+                <div class="columna">
+                    <h6 class="itemcolumn">Paises</h6>
+                    <h6 class="itemcolumn">Regiones</h6>
+                    <h6 class="itemcolumn">Ciudades</h6>
+                    <h6 class="itemcolumn">Zonas</h6>
+                    <h6 class="itemcolumn">Aeropuertos</h6>
+                    <h6 class="itemcolumn">Hoteles</h6>
+                    <h6 class="itemcolumn">Lugares de interés</h6>
+                </div>
+                <div class="columna">
+                    <h6 class="itemcolumn">Casas</h6>
+                    <h6 class="itemcolumn">Apartamentos</h6>
+                    <h6 class="itemcolumn">Resorts</h6>
+                    <h6 class="itemcolumn">Villas</h6>
+                    <h6 class="itemcolumn">Albergues</h6>
+                    <h6 class="itemcolumn">Bed and Breakfast</h6>
+                    <h6 class="itemcolumn">Hostales y pensiones</h6>
+                </div>
+                <div class="columna">
+                    <h6 class="itemcolumn">Alojamientos únicos</h6>
+                    <h6 class="itemcolumn">Opiniones</h6>
+                    <h6 class="itemcolumn">Estancias mensuales</h6>
+                    <h6 class="itemcolumn">Artículos</h6>
+                    <h6 class="itemcolumn">Ofertas de temporada</h6>
+                    <h6 class="itemcolumn">Traveller Review Awards</h6>
+                </div>
+                <div class="columna">
+                    <h6 class="itemcolumn">Alquiler de coches</h6>
+                    <h6 class="itemcolumn">Buscador de vuelos</h6>
+                    <h6 class="itemcolumn">Reservas en restaurantes</h6>
+                    <h6 class="itemcolumn">Reservas online</h6>
+
+                </div>
+            </div>
+            <div class="iconos1">
+                <img class="footicon" src="wpp.png" alt="">
+                <img class="footicon" src="insta.png" alt="">
+                <img class="footicon" src="facebk.png" alt="">
+            </div>
+        </div>
+        <div class="final">
+            <p class="txtfinal">Copyright © 1996–2023 MySweetHome.com™. Todos los derechos reservados</p>
+        </div>
+    </footer>
+
+
+
+</body>
+<script src="form.js"></script>
+
+
+</html>
